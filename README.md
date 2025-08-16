@@ -3,7 +3,7 @@
   <img src="assets/Banner.png" alt="banner" width="100%">
 </p>
 
-# Hi! My name is [Your Name]  
+# Hi! My name is Jorge Lopez
 Robotics and Digital Systems Engineering Student | Autonomous Systems & Computer Vision  
 
 ---
